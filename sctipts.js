@@ -299,4 +299,24 @@ $(document).ready(function() {
 			}, "fast")
 		}
 	})
+	
+	$("form button").click(function() {
+		var data = {
+   			subject: $("#subject").val(),
+    		email: $("#email").val(),
+    		message: $("#message").val()
+		};
+		$.ajax({
+    		type: "POST",
+    		url: "mail.php",
+    		data: data,
+    		success: function(){
+        		alert('Twój email został wysłany.');
+    		},
+			error: function() {
+				alert('Coś poszło nie tak!\nNie udało się wysłać wiadomości. Proszę, wyślij email przez własną skrzynkę lub wybierz inną formę kontaktu.');
+			}
+		});
+	});
+
 });
