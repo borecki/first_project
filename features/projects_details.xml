@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<feeds>
+	<feed id="0">
+		<title>Project 1</title>
+		<img src="images/projects/originalSizee/girl1_compresed.jpg" class="img-responsive"/>
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum tempus ligula. Cras vitae libero erat, non porta ligula. Sed laoreet tempor 				est, a gravida eros ornare consectetur. Aenean ultricies consectetur consequat. Integer pretium, purus ac elementum lacinia, enim nulla varius est, in tempor nunc purus ut dui. Morbi sit amet tellus ligula. Aenean ante nunc, pulvinar eu rhoncus at, facilisis at arcu. Maecenas venenatis erat nec ante condimentum id pellentesque elit vulputate. Curabitur tristique nulla non felis mollis cursus. Mauris dapibus semper augue, volutpat malesuada massa luctus at. Nulla mi turpis, tincidunt sit amet fermentum et, congue at dui. Sed laoreet lectus vel velit egestas sollicitudin. Nam eget nibh eu leo volutpat convallis.
+		</description>
+	</feed>
+
+	<feed id="1">
+		<title>Project 2</title>
+		<img src="images/projects/originalSizee/cat_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Etiam sem metus, ultrices sit amet eleifend quis, facilisis ut leo. Sed hendrerit rhoncus egestas. Quisque in enim eget diam pellentesque egestas malesuada at urna. Maecenas consectetur suscipit magna eu ornare. Integer commodo metus tincidunt nisi fringilla facilisis. Maecenas non metus leo, vitae ornare erat. Quisque justo ligula, ullamcorper at adipiscing eu, vestibulum id nulla. Etiam vel sem et diam vulputate pulvinar id id mauris. Integer eget nunc turpis. Proin aliquam est hendrerit erat congue semper.
+		</description>
+	</feed>
+	
+	<feed id="2">
+		<title>Project 3</title>
+		<img src="images/projects/originalSizee/music_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>
+	
+	<feed id="3">
+		<title>Project 4</title>
+		<img src="images/projects/originalSizee/nissan_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>
+	
+	<feed id="4">
+		<title>Project 5</title>
+		<img src="images/projects/originalSizee/girl2_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>
+	
+	<feed id="5">
+		<title>Project 6</title>
+		<img src="images/projects/originalSizee/car_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>
+	
+	<feed id="6">
+		<title>Project 7</title>
+		<img src="images/projects/originalSizee/oranges_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>
+	
+	<feed id="7">
+		<title>Project 8</title>
+		<img src="images/projects/originalSizee/food_compresed.jpg" />
+		<techTitle><![CDATA[Technologie<br>]]></techTitle>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspHTML 5<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspCSS 3<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspBootstrap<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJavaScript<br></p>]]></tech>
+		<tech><![CDATA[<p><i class="fa fa-check text-danger" aria-hidden="true"></i>&nbsp&nbsp&nbspJQuery<br></p>]]></tech>
+		<description>Pellentesque sodales consequat euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at consectetur elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere faucibus erat in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at lacus vel lorem porttitor scelerisque ut eget dolor. Praesent vitae justo eros, tempor pulvinar massa. Curabitur vehicula, erat quis eleifend luctus, ligula urna semper nunc, fringilla sagittis magna velit ut ipsum. Donec eget mi at nisi ultrices fringilla. Pellentesque tempor ipsum sit amet dolor bibendum id volutpat ante placerat. Duis vel ipsum ante. Duis venenatis malesuada nulla, et aliquam nulla dapibus eget. Donec sed ipsum nec justo fermentum venenatis non quis nulla. Aliquam auctor velit at elit hendrerit luctus.
+		</description>
+	</feed>	
+</feeds>
