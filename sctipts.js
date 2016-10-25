@@ -91,7 +91,7 @@ $(document).ready(function() {
 			var tmp = {
 				id: $(this).attr('id'),
 				title: $("title", this).text(),
-				img: $(this).ren("img").attr('src'),
+				img: $(this).children("img").attr('src'),
 				description: $(this).children("description").text(),
 				techTitle: $(this).children("techTitle").text(),
 				tech: $(this).children("tech").text(),	
