@@ -23,6 +23,7 @@ $("#contactForm").validate({
 });
 
 $(document).ready(function() {
+	
 /* smooth scroll */	  
 	$(".a").on('click', function(event) {
 		if(this.hash !=="") {
@@ -90,7 +91,7 @@ $(document).ready(function() {
 			var tmp = {
 				id: $(this).attr('id'),
 				title: $("title", this).text(),
-				img: $(this).children("img").attr('src'),
+				img: $(this).ren("img").attr('src'),
 				description: $(this).children("description").text(),
 				techTitle: $(this).children("techTitle").text(),
 				tech: $(this).children("tech").text(),	
