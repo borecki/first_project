@@ -86,7 +86,7 @@ $(document).ready(function() {
 	
 	$.get("features/projects_details.xml", function(data){
 		var arFeeds = new Array();
-		
+		console.log(data);
 		$(data).find('feed').each(function(){
 			var tmp = {
 				id: $(this).attr('id'),
@@ -244,7 +244,7 @@ $(document).ready(function() {
 	$(window).scroll(scrollTopCheck); 
 	new WOW().init();
 
-/* header actions RWD*/
+/* header actions RWD */
 	if ( $(window).width() < 975 ) {
 		$('#menu').css("display", "none");
 	}

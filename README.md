@@ -6,6 +6,7 @@ This page was made early 2016, at the beginning of the Free Code Camp Course. Pa
 * HTML5
 * CSS3
 * JavaScript
+* AJAX (sending e-mail with AJAX)
 * jQuery
 * Twitter Bootstrap
 
