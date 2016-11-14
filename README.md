@@ -12,7 +12,7 @@ This page was made early 2016, at the beginning of the Free Code Camp Course. Pa
 
 
 ## Demo
-<a href="https://borecki.github.io/first_project/">live priview available here</a>
+<a href="http://test17082.futurehost.pl/simple-portfolio/">live priview available here</a>
 
 ## ScreenShots
 ![ScreenShot](http://i.imgur.com/QJChB1a.jpg)
